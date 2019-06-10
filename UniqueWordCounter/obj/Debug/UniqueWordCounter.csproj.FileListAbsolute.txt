@@ -1,0 +1,4 @@
+C:\Users\Neil\Documents\Visual Studio 2015\Projects\KingsleyCodingTest\UniqueWordCounter\bin\Debug\UniqueWordCounter.dll
+C:\Users\Neil\Documents\Visual Studio 2015\Projects\KingsleyCodingTest\UniqueWordCounter\bin\Debug\UniqueWordCounter.pdb
+C:\Users\Neil\Documents\Visual Studio 2015\Projects\KingsleyCodingTest\UniqueWordCounter\obj\Debug\UniqueWordCounter.dll
+C:\Users\Neil\Documents\Visual Studio 2015\Projects\KingsleyCodingTest\UniqueWordCounter\obj\Debug\UniqueWordCounter.pdb

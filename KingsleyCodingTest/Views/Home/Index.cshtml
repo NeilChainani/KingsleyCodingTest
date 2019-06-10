@@ -1,0 +1,9 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@using (Html.BeginForm("MyAction", "Home"))
+{
+    <p>Words: <input type="text" name="words" /></p>
+    <input type="submit" value="Count" />
+}
